@@ -15,3 +15,4 @@ conta2 = qtd2 * valor2
 valor_total = conta1 + conta2
 
 print(f'VALOR A PAGAR: R$ {valor_total:.2f}')
+
